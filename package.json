@@ -1,0 +1,22 @@
+{
+  "name": "arclight-court-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlloClark/arclight-court-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlloClark/arclight-court-portfolio/issues"
+  },
+  "homepage": "https://github.com/OlloClark/arclight-court-portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
