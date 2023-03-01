@@ -513,6 +513,22 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.fixed {
+  position: fixed;
+}
+
+.sticky {
+  position: sticky;
+}
+
+.top-0 {
+  top: 0px;
+}
+
+.z-50 {
+  z-index: 50;
+}
+
 .m-5 {
   margin: 1.25rem;
 }
@@ -575,6 +591,10 @@ video {
 
 .justify-around {
   justify-content: space-around;
+}
+
+.overflow-hidden {
+  overflow: hidden;
 }
 
 .border-4 {
